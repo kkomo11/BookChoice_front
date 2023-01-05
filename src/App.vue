@@ -4,6 +4,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 
 <template>
   <div>
+    <router-link to="/">Home</router-link>
     <router-view />
   </div>
   <div>
