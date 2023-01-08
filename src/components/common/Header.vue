@@ -219,51 +219,6 @@
             <div
               class="tab_wrap ui-tabs ui-corner-all ui-widget ui-widget-content"
             >
-              <div class="tab_list_wrap">
-                <ul
-                  class="tabs ui-tabs-nav ui-corner-all ui-helper-reset ui-helper-clearfix ui-widget-header"
-                  role="tablist"
-                >
-                  <li
-                    class="tab_item ui-tabs-tab ui-corner-top ui-state-default ui-tab ui-tabs-active ui-state-active"
-                    role="tab"
-                    tabindex="0"
-                    aria-controls="tabAnbCategory"
-                    aria-labelledby="ui-id-6"
-                    aria-selected="true"
-                    aria-expanded="true"
-                  >
-                    <a
-                      href="#tabAnbCategory"
-                      class="tab_link ui-tabs-anchor"
-                      onclick="ga360.GA_Event('click_공통_PC', 'LNB', '', '카테고리전체보기', '');"
-                      role="presentation"
-                      tabindex="-1"
-                      id="ui-id-6"
-                      ><span class="tab_text">카테고리 전체보기</span></a
-                    >
-                  </li>
-                  <li
-                    class="tab_item ui-tabs-tab ui-corner-top ui-state-default ui-tab"
-                    role="tab"
-                    tabindex="-1"
-                    aria-controls="tabAnbService"
-                    aria-labelledby="ui-id-7"
-                    aria-selected="false"
-                    aria-expanded="false"
-                  >
-                    <a
-                      href="#tabAnbService"
-                      class="tab_link ui-tabs-anchor"
-                      onclick="ga360.GA_Event('click_공통_PC', 'LNB', '', '서비스전체보기', '');"
-                      role="presentation"
-                      tabindex="-1"
-                      id="ui-id-7"
-                      ><span class="tab_text">서비스 전체보기</span></a
-                    >
-                  </li>
-                </ul>
-              </div>
               <div
                 id="tabAnbCategory"
                 class="tab_content ui-tabs-panel ui-corner-bottom ui-widget-content"
@@ -3651,78 +3606,6 @@
                                             </div>
                                           </div>
                                         </div>
-                                        <div class="special_corner_area">
-                                          <div
-                                            class="title_wrap title_size_sm"
-                                            onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '스페셜코너', '');"
-                                          >
-                                            <p class="title_heading">
-                                              스페셜 코너
-                                            </p>
-                                          </div>
-                                          <ul class="special_corner_list">
-                                            <li
-                                              class="special_corner_item"
-                                              onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '스페셜코너>오늘의 선택', '');"
-                                            >
-                                              <a
-                                                href="https://product.kyobobook.co.kr/today-book"
-                                                class="special_corner_link"
-                                                >오늘의 선택</a
-                                              >
-                                            </li>
-                                            <li
-                                              class="special_corner_item"
-                                              onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '스페셜코너>추천', '');"
-                                            >
-                                              <a
-                                                href="https://www.kyobobook.co.kr/recommend/main"
-                                                class="special_corner_link"
-                                                >추천</a
-                                              >
-                                            </li>
-                                            <li
-                                              class="special_corner_item"
-                                              onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '스페셜코너>선물하기', '');"
-                                            >
-                                              <a
-                                                href="https://www.kyobobook.co.kr/present/main"
-                                                class="special_corner_link"
-                                                >선물하기</a
-                                              >
-                                            </li>
-                                            <li
-                                              class="special_corner_item"
-                                              onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '스페셜코너>분철서비스', '');"
-                                            >
-                                              <a
-                                                href="https://www.kyobobook.co.kr/spring/main"
-                                                class="special_corner_link"
-                                                >분철서비스</a
-                                              >
-                                            </li>
-                                            <li
-                                              class="special_corner_item"
-                                              onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '스페셜코너>특가', '');"
-                                            >
-                                              <a
-                                                href="https://www.kyobobook.co.kr/service/special-price"
-                                                class="special_corner_link"
-                                                >특가</a
-                                              >
-                                            </li>
-                                            <li
-                                              class="special_corner_item"
-                                              onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '스페셜코너>정가인하', '');"
-                                            >
-                                              <a
-                                                href="https://www.kyobobook.co.kr/service/re-price"
-                                                class="special_corner_link"
-                                                >정가인하</a
-                                              >
-                                            </li>
-                                          </ul>
-                                        </div>
                                       </div>
                                     </div>
                                   </div>
@@ -3751,15 +3634,6 @@
                                 style="height: 0px; display: none"
                               ></div>
                             </div>
-                          </div>
-                          <div class="banner_box">
-                            <a
-                              href="http://imac.kyobobook.co.kr/click/INK/ink_wel_new/ink_wel@wel_14?adsno=130250&amp;ctvno=93420&amp;clkno=93459"
-                              class="banner_link"
-                              ><img
-                                src="http://image.kyobobook.co.kr/newimages/adcenter/IMAC/creatives/2023/01/03/57896/4.png"
-                                alt=""
-                            /></a>
                           </div>
                         </div>
                         <div
@@ -6829,130 +6703,6 @@
                           </div>
                         </div>
                       </div>
-                    </div>
-                    <div class="anb_category_bottom">
-                      <ul class="recommend_service_list">
-                        <li class="recommend_service_item">
-                          <a
-                            href="https://product.kyobobook.co.kr/today-book"
-                            class="recommend_service_link"
-                            onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '바로가기_오늘의 선택', '');"
-                          >
-                            <span class="img_box">
-                              <img
-                                src="https://contents.kyobobook.co.kr/display/bn – 1_017c321f59504c6f995c5c4c90bcd382.jpg"
-                                alt="오늘의 선택"
-                              />
-                            </span>
-                            <span class="title">오늘의 선택</span>
-                          </a>
-                        </li>
-                        <li class="recommend_service_item">
-                          <a
-                            href="https://product.kyobobook.co.kr/booknflower/main"
-                            class="recommend_service_link"
-                            onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '바로가기_책 그리고 꽃', '');"
-                          >
-                            <span class="img_box">
-                              <img
-                                src="https://contents.kyobobook.co.kr/display/bn – 3_dbacbee09aa64c82b6e7c78c7980f306.jpg"
-                                alt="책 그리고 꽃"
-                              />
-                            </span>
-                            <span class="title">책 그리고 꽃</span>
-                          </a>
-                        </li>
-                        <li class="recommend_service_item">
-                          <a
-                            href="https://www.kyobobook.co.kr/service/profile/main"
-                            class="recommend_service_link"
-                            onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '바로가기_인물&amp;작품', '');"
-                          >
-                            <span class="img_box">
-                              <img
-                                src="https://contents.kyobobook.co.kr/display/bn – 4_dea56a082097433c80a6491aca4fcad6.jpg"
-                                alt="인물&amp;작품"
-                              />
-                            </span>
-                            <span class="title">인물&amp;작품</span>
-                          </a>
-                        </li>
-                        <li class="recommend_service_item">
-                          <a
-                            href="https://www.kyobobook.co.kr/present/main"
-                            class="recommend_service_link"
-                            onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '바로가기_선물하기', '');"
-                          >
-                            <span class="img_box">
-                              <img
-                                src="https://contents.kyobobook.co.kr/display/bn – 5_6f76bd72614f4a24a89d905386b32c84.jpg"
-                                alt="선물하기"
-                              />
-                            </span>
-                            <span class="title">선물하기</span>
-                          </a>
-                        </li>
-                        <li class="recommend_service_item">
-                          <a
-                            href="https://www.kyobobook.co.kr/review"
-                            class="recommend_service_link"
-                            onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '바로가기_통합리뷰', '');"
-                          >
-                            <span class="img_box">
-                              <img
-                                src="https://contents.kyobobook.co.kr/display/bn – 6_a0981652bec94c7094de142a9440c909.jpg"
-                                alt="통합리뷰"
-                              />
-                            </span>
-                            <span class="title">통합리뷰</span>
-                          </a>
-                        </li>
-                        <li class="recommend_service_item">
-                          <a
-                            href="https://www.kyobobook.co.kr/handwriting"
-                            class="recommend_service_link"
-                            onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '바로가기_손글씨캠페인', '');"
-                          >
-                            <span class="img_box">
-                              <img
-                                src="https://contents.kyobobook.co.kr/display/bn – 7_bd7dd305777e46b0b914490a234ec720.jpg"
-                                alt="손글씨캠페인"
-                              />
-                            </span>
-                            <span class="title">손글씨캠페인</span>
-                          </a>
-                        </li>
-                        <li class="recommend_service_item">
-                          <a
-                            href="https://www.kyobobook.co.kr/culture/main"
-                            class="recommend_service_link"
-                            onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '바로가기_문화공간', '');"
-                          >
-                            <span class="img_box">
-                              <img
-                                src="https://contents.kyobobook.co.kr/display/bn – 8_ead7c54f641e45fca4bf7bb27330f4c3.jpg"
-                                alt="문화공간"
-                              />
-                            </span>
-                            <span class="title">문화공간</span>
-                          </a>
-                        </li>
-                        <li class="recommend_service_item">
-                          <a
-                            href="https://product.kyobobook.co.kr/pod/main"
-                            class="recommend_service_link"
-                            onclick="ga360.GA_Event('click_공통_PC', 'LNB', '카테고리전체보기_교보문고', '바로가기_POD', '');"
-                          >
-                            <span class="img_box">
-                              <img
-                                src="https://contents.kyobobook.co.kr/display/bn – 13_f727275a372b4ab5a5be25e9dc728980.jpg"
-                                alt="POD"
-                              />
-                            </span>
-                            <span class="title">POD</span>
-                          </a>
-                        </li>
-                      </ul>
                     </div>
                   </div>
                 </div>

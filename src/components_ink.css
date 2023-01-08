@@ -1982,7 +1982,7 @@ button.btn_file_down .ico_file_down {
   width: 16px;
   height: 16px;
   margin: 2px 0 0 6px;
-  background: url("../images/common/ink/arw_anb_category_all@2x.png") 0% 0% no-repeat;
+  background: url("/src/assets/images/common/ink/arw_anb_category_all@2x.png") 0% 0% no-repeat;
   background-size: 16px 16px;
   vertical-align: top;
 }

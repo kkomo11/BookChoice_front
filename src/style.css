@@ -699,7 +699,7 @@ button {
   overflow: hidden;
   border: 1px solid #000;
   border-radius: 16px;
-  height: 705px;
+  height: 605px;
   box-sizing: border-box;
 }
 
@@ -846,7 +846,7 @@ button {
   width: 5px;
   height: 8px;
   background-size: 5px 8px;
-  background-image: url("../images/common/ink/arw_anb_category_tab@2x.png");
+  background-image: url("/src/assets/images/common/ink/arw_anb_category_tab@2x.png");
   background-color: transparent;
 }
 
@@ -976,7 +976,7 @@ button {
   height: 11px;
   right: 1px;
   background-size: 11px 11px;
-  background-image: url("../images/common/ink/ico_fold_menu_plus@2x.png");
+  background-image: url("/src/assets/images/common/ink/ico_fold_menu_plus@2x.png");
 }
 
 .wrapper .header_wrapper .header_inner .gnb_wrap .anb_wrap .anb_area>.tab_wrap .tab_content.anb_category .anb_category_inner .tab_wrap.category .tab_content .category_view_area .fold_box_wrap.category .fold_box_list .fold_box.expanded .fold_box_header {
@@ -985,7 +985,7 @@ button {
 
 .wrapper .header_wrapper .header_inner .gnb_wrap .anb_wrap .anb_area>.tab_wrap .tab_content.anb_category .anb_category_inner .tab_wrap.category .tab_content .category_view_area .fold_box_wrap.category .fold_box_list .fold_box.expanded .fold_box_header:after {
   background-size: 11px 11px;
-  background-image: url("../images/common/ink/ico_fold_menu_minus@2x.png");
+  background-image: url("/src/assets/images/common/ink/ico_fold_menu_minus@2x.png");
 }
 
 .wrapper .header_wrapper .header_inner .gnb_wrap .anb_wrap .anb_area>.tab_wrap .tab_content.anb_category .anb_category_inner .tab_wrap.category .tab_content .category_view_area .fold_box_wrap.category .fold_box_list .fold_box.expanded .fold_box_contents {
@@ -2883,7 +2883,7 @@ button {
   background-repeat: no-repeat;
   background-position: right center;
   background-size: 16px 16px;
-  background-image: url("../images/common/ink/arw_anb_category_all@2x.png");
+  background-image: url("/src/assets/images/common/ink/arw_anb_category_all@2x.png");
 }
 
 .wrapper .footer_wrapper .footer_header .welcome_main_service_area .service_group_area .service_group_box .service_list {
