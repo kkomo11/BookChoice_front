@@ -2396,7 +2396,7 @@ button {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 8px 4px;
-  background-image: url("../images/common/ink/arw_familysite_more@2x.png");
+  background-image: url("/src/assets/images/common/ink/arw_familysite_more@2x.png");
   transition: transform 0.23s;
 }
 
@@ -2474,17 +2474,17 @@ button {
 
 .wrapper .footer_wrapper .footer_body .logo_box .sns_share_box .btn_sns_share.youtube {
   background-size: 32px 32px;
-  background-image: url("../images/common/ink/btn_footer_sns_youtube@2x.png");
+  background-image: url("/src/assets/images/common/ink/btn_footer_sns_youtube@2x.png");
 }
 
 .wrapper .footer_wrapper .footer_body .logo_box .sns_share_box .btn_sns_share.fb {
   background-size: 32px 32px;
-  background-image: url("../images/common/ink/btn_footer_sns_fb@2x.png");
+  background-image: url("/src/assets/images/common/ink/btn_footer_sns_fb@2x.png");
 }
 
 .wrapper .footer_wrapper .footer_body .logo_box .sns_share_box .btn_sns_share.insta {
   background-size: 32px 32px;
-  background-image: url("../images/common/ink/btn_footer_sns_insta@2x.png");
+  background-image: url("/src/assets/images/common/ink/btn_footer_sns_insta@2x.png");
 }
 
 .wrapper .footer_wrapper .footer_body .logo_box .sns_share_box .btn_sns_share+.btn_sns_share {
@@ -2536,7 +2536,7 @@ button {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 6px 6px;
-  background-image: url("../images/common/ink/arw_footer_link@2x.png");
+  background-image: url("/src/assets/images/common/ink/arw_footer_link@2x.png");
   vertical-align: top;
 }
 
@@ -2682,7 +2682,7 @@ button {
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: 48px 48px;
-  background-image: url("../images/common/ink/img_mark_isms@2x.png");
+  background-image: url("/src/assets/images/common/ink/img_mark_isms@2x.png");
 }
 
 .wrapper .footer_wrapper .footer_body .footer_contents_wrap .footer_contents_right .footer_mark_isms .mark_desc {

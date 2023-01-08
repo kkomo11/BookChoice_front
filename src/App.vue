@@ -1,9 +1,11 @@
 <script>
 import Header from "/src/components/common/Header.vue";
+import Footer from "/src/components/common/Footer.vue";
 export default {
   name: "HelloWorld",
   components: {
     Header,
+    Footer,
   },
 };
 </script>
@@ -14,6 +16,7 @@ export default {
     <router-link to="/">Home</router-link>
     <router-view />
   </div>
+  <Footer></Footer>
 </template>
 
 <style scoped>
