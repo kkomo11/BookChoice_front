@@ -9,14 +9,28 @@
             class="notice_link"
             >폭설로 인한 배송지연 안내 (12/21~)</a
           >
+          <div class="right_area">
+            <a href="#" class="btn_more_plus_text"
+              ><span class="text">더보기</span><span class="ico_plus"></span
+            ></a>
+          </div>
         </div>
-        <div class="notice_wrap winner">
+        <div
+          class="notice_wrap winner"
+          onclick="ga360.GA_Event('click_공통_PC', 'FNB', '', '당첨자발표', '');"
+        >
           <span class="notice_text">당첨자발표</span
           ><a
-            href="https://www.kyobobook.co.kr/cscenter/notice/detail/1001346"
+            href="https://event.kyobobook.co.kr/winner/detail/1001398"
             class="notice_link"
-            >폭설로 인한 배송지연 안내 (12/21~)</a
+            >[문학/만화]《푸른 행성이 있었다》 출간 기념 한줄평 이벤트 당첨자
+            발표</a
           >
+          <div class="right_area">
+            <a href="#" class="btn_more_plus_text"
+              ><span class="text">더보기</span><span class="ico_plus"></span
+            ></a>
+          </div>
         </div>
       </div>
     </div>
@@ -275,7 +289,7 @@
             </div>
 
             <address class="footer_info_box">
-              <span class="info_text">대표이사 : 안병현</span>
+              <span class="info_text">대표이사 : 박한별</span>
               <span class="gap">|</span>
               <span class="info_text">서울특별시 종로구 종로 1</span>
               <span class="gap">|</span>

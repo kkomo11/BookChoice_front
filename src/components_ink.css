@@ -1806,7 +1806,7 @@ button.btn_file_down .ico_file_down {
   width: 10px;
   height: 10px;
   margin: 6px 0 0 6px;
-  background: url("../images/common/ink/ico_plus_h10_bold@2x.png") center no-repeat;
+  background: url("/src/assets/images/common/ink/ico_plus_h10_bold@2x.png") center no-repeat;
   background-size: 10px 10px;
 }
 

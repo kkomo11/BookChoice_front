@@ -3556,7 +3556,7 @@ button {
   height: 24px;
   margin: 9px 0 0 12px;
   background-size: 24px 24px;
-  background-image: url("../images/common/ink/ico_plus_link@2x.png");
+  background-image: url("/src/assets/images/common/ink/ico_plus_link@2x.png");
   vertical-align: top;
 }
 
