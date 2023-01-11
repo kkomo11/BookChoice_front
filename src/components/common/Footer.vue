@@ -289,7 +289,7 @@
             </div>
 
             <address class="footer_info_box">
-              <span class="info_text">대표이사 : 박한별</span>
+              <span class="info_text">대표이사 : 심예지</span>
               <span class="gap">|</span>
               <span class="info_text">서울특별시 종로구 종로 1</span>
               <span class="gap">|</span>

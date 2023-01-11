@@ -1,13 +1,6 @@
-<script>
+<script setup>
 import Header from "/src/components/common/Header.vue";
 import Footer from "/src/components/common/Footer.vue";
-export default {
-  name: "HelloWorld",
-  components: {
-    Header,
-    Footer,
-  },
-};
 </script>
 
 <template>
