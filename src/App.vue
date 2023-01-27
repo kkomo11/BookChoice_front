@@ -5,10 +5,8 @@ import Footer from "/src/components/common/Footer.vue";
 
 <template>
   <Header></Header>
-  <div>
-    <router-link to="/">Home</router-link>
-    <router-view />
-  </div>
+  <!-- <router-link to="/">Home</router-link> -->
+  <router-view />
   <Footer></Footer>
 </template>
 
